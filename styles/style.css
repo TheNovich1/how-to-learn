@@ -236,6 +236,7 @@
 
 .kaufman__triangle{
   background-image: url("../images/kaufman-triangle.svg");
+  background-size: 100% 100%;
   position: absolute;
   right: -210px;
   top: 0;
@@ -260,9 +261,9 @@
 
 .footer__columns{
   display: flex;
+  min-height: 250px;
   width: 90%;
   margin: 0 auto;
-  min-height: 350px;
   justify-content: space-between;
 }
 
