@@ -3,4 +3,7 @@
     width: 1050px;
     font-size: 0;
     position: relative;
+    display: flex;
+    padding: 0;
+    list-style: none;
 }

@@ -3,6 +3,7 @@
     height: 38px;
     display: inline-block;
     transition: opacity 0.4s linear;
+    align-self: center;
 }
 
 .resources__link:hover{
